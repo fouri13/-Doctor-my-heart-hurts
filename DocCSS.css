@@ -1,0 +1,101 @@
+img
+{
+	margin-right: 60%;
+	margin-left: 40%;
+	display: block;
+	position: fixed;
+}
+body
+{
+	background-color: #DCDCDC;
+	overflow: hidden;
+}
+h2, h4
+{
+	text-align: center;
+	color: red;
+}
+
+figcaption
+{
+	float: right;
+	margin-left: 55%;
+	margin-right: 20%;
+	position: absolute;
+	border: solid;
+	border-color: #000080;
+	background-color: #B0E0E6;
+	height: 498px;
+	width: 200px;
+	overflow: scroll;
+	margin-bottom: auto;
+	color: #9932CC;
+}
+p
+{	
+	color: red;
+	text-align: center;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+	
+.bottom
+{
+	background: #696969;
+	position: absolute;
+	bottom:0;
+	width:100%;
+	padding-top:50px;
+	height:50px;
+	text-align: right;
+}
+/*************************circle*******************/
+.circle
+{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	background: black;
+	border-radius: 50px;
+	opacity: 0.3;
+}
+
+.circle:hover
+{
+	background: red;	
+}
+
+#cercle_epaule
+{
+	margin-left: 41%;
+	margin-top: 7%;
+}
+
+
+
+#cercle_main
+{
+	margin-left: 40%;
+	margin-top: 18%;
+}
+#cercle_bras
+{
+	margin-left: 49%;
+	margin-top: 15%;
+
+}
+#cercle_pied
+{
+	margin-left: 46%;
+	margin-top: 35%;
+}
+#cercle_bassin
+{
+	margin-left: 47%;
+	margin-top: 18%;
+}
+#cercle_genou
+{
+	margin-left: 43%;
+	margin-top: 27%;
+}
